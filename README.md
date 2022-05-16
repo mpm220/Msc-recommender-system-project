@@ -1,4 +1,4 @@
-# MSc end of year project - built an analytical tool to explore efficiency/effectiveness trade-offs in popular recommender systems
+# MSc project - Analytical tool to explore efficiency/effectiveness trade-offs in popular recommender systems
 
 I was on the fence about uploading this one as, after looking through it, I could build it alot better now. I was teaching myself python while working on it, 
 as my course was almost exclusively java. 
